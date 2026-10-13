@@ -1,0 +1,1 @@
+que quand il n'y a pas de date de fin ca check si il y en a une a chaque ouverture

@@ -1,0 +1,39 @@
+{
+    "path": "Z:\\NATH C\\social\\REGISTRE PERSONNEL\\",
+    "folders": {
+        "GEAC": "GEAC\\GEAC 2025.xlsx",
+        "GEEL": "GROUPEMENT\\GPT 20230101+2024.xlsx",
+        "CAILLOU": "SCEA LE CAILLOU\\CAILLOU 20230101+2024.xlsx",
+        "PETIT FR": "SCEA LES PETITS FRUITS\\PF 20230101+ 2024.xlsx",
+        "PETIT VA": "SCEA PETIT VAL\\PV 20230101+2024.xlsx"
+    },
+    "last_date": "2026/07/26",
+    "last_matrs_dates": {
+        "matrs": [
+            "836",
+            "276",
+            "300",
+            "5232",
+            "033",
+            "418",
+            "137",
+            "444",
+            "253",
+            "075",
+            "1333"
+        ],
+        "dates": [
+            "20260801",
+            "20260803",
+            "20260803",
+            "20260803",
+            "20260803",
+            "20260803",
+            "20260801",
+            "20260801",
+            "20260801",
+            "20260801",
+            "20260801"
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+.vscode
+*__pycache__
+*output
+*Lib
+*Scripts
+*Include
+skorpio
+wifi.txt
